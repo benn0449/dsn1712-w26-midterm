@@ -68,7 +68,7 @@ blockquote {
     /*blockquote p*/
     font-size: 24px;
     color: #c6a85b;
-    text-transform: italic;
+    font-style: italic;
     text-align: center;
     /*blockquote p*/
 }
