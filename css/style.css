@@ -72,14 +72,15 @@ p {
 blockquote {
     margin-top: 70px;
     margin-bottom: 70px;
-    /*blockquote p*/
+}
+
+blockquote p {
     font-size: 24px;
     color: #c6a85b;
     font-style: italic;
     text-align: center;
-    /*blockquote p*/
-}
 
+}
 
 ul {
     margin-top: 20px;
