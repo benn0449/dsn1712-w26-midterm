@@ -25,7 +25,7 @@ nav a:visited {
 }
 
 
-a:hover {
+nav a:hover {
     text-decoration: underline;
     color: #9aa0a6;
 }
@@ -74,6 +74,7 @@ blockquote {
     margin-bottom: 70px;
 }
 
+
 blockquote p {
     font-size: 24px;
     color: #c6a85b;
@@ -81,6 +82,7 @@ blockquote p {
     text-align: center;
 
 }
+
 
 ul {
     margin-top: 20px;
